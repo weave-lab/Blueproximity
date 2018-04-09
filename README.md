@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.getweave.com/weave-lab/ops/Blueproximity/badges/master/pipeline.svg)](https://gitlab.getweave.com/weave-lab/ops/Blueproximity/commits/master)
+[![coverage report](https://gitlab.getweave.com/weave-lab/ops/Blueproximity/badges/master/coverage.svg)](https://gitlab.getweave.com/weave-lab/ops/Blueproximity/commits/master)
 Blueproximity [![Documentation Status](https://readthedocs.org/projects/blueproximity/badge/?version=latest)](http://blueproximity.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://travis-ci.org/Thor77/Blueproximity.svg?branch=master)](https://travis-ci.org/Thor77/Blueproximity)
 =============
 
